@@ -15,7 +15,7 @@ For the datasets, the [ICDAR2011 (Dutch)](https://drive.google.com/file/d/1BPTu5
 ) and [BHSig260 (Bengali, Hindi)](https://drive.google.com/file/d/11xrkAxigGBoCDQ-lM4zII0VR3gy0R2sj/view?usp=sharing
 ) have been used to develop our model. 
 
-2) Data Preprocessing [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning/blob/master/images_processing.ipynb
+2) Data Preprocessing [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning-Model/blob/master/images_processing.ipynb
 )
         
      1- Noise Removal: Gaussian blur technique was used to remove the noise in the dataset samples 
@@ -40,7 +40,7 @@ For the datasets, the [ICDAR2011 (Dutch)](https://drive.google.com/file/d/1BPTu5
 
 
 
-3) Model Architecture [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning/blob/master/project5.ipynb
+3) Model Architecture [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning-Model/blob/master/project5.ipynb
 )
   
 Siamese network is considered as an implementation of One-Shot learning technique, it consists of parallel convolution networks, could be two or more.The model evaluates the two input images by finding the similarity score between the two images between 0 and 1 clarifying whether the test image is genuine or forged based on the similarity score.
@@ -57,7 +57,7 @@ Siamese network is considered as an implementation of One-Shot learning techniqu
 ![image](https://user-images.githubusercontent.com/47431372/127754482-ba57877d-15a3-4418-8002-11601e9e9409.png)
 
 
-5) Results and Evaluation [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning/blob/master/project6.ipynb
+5) Results and Evaluation [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning-Model/blob/master/project6.ipynb
 )
 
   
