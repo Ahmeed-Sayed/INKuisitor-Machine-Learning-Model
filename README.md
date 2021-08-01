@@ -40,7 +40,7 @@ For the datasets, the [ICDAR2011 (Dutch)](https://drive.google.com/file/d/1BPTu5
 
 
 
-3) Model Architecture [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning-Model/blob/master/project5.ipynb) - [model weights](https://drive.google.com/drive/folders/1sizPVIMaoXNlihRY6UaAUTQlk5-83W-E?usp=sharing)
+3) Model Architecture [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning-Model/blob/master/project5.ipynb) - [model weights](https://drive.google.com/drive/folders/1sizPVIMaoXNlihRY6UaAUTQlk5-83W-E?usp=sharing) - [model weights (h5)](https://drive.google.com/file/d/1-A5LycnhA2G84D0HZXN5jg47mvX3f4uD/view?usp=sharing)
   
 Siamese network is considered as an implementation of One-Shot learning technique, it consists of parallel convolution networks, could be two or more.The model evaluates the two input images by finding the similarity score between the two images between 0 and 1 clarifying whether the test image is genuine or forged based on the similarity score.
   
