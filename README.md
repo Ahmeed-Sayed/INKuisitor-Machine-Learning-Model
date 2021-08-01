@@ -91,3 +91,9 @@ Siamese network is considered as an implementation of One-Shot learning techniqu
 ### [INKuisitor Backend](https://github.com/hossam507/INKuisitor-Backend)
 
 ### [INKuisitor Fronend](https://github.com/DevDerpi/INKuisitor-Frontend)
+
+### [INKuisitor Documentation](https://drive.google.com/file/d/1QAHa9znnBrcRrZkXDISJDrzMCNpvC72q/view?usp=sharing)
+
+### [INKuisitor Presentation](https://drive.google.com/file/d/1ZWg0DFBU8MovKR2mqXbC4z-rW9_3tWw_/view?usp=sharing)
+
+### [INKuisitor DEMO](https://drive.google.com/file/d/1DrdxYrs3DulM7idhr4cCFoZPfXeOaHng/view?usp=sharing)
