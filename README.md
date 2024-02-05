@@ -3,9 +3,9 @@
 ## Offline Signature Verification Web Application System (Computer Systems Engineering Graduation Project 2021)
 
 
-Offline Signature Verification model using deep learning methods to authinticate identity by  distinguishing between signatures.
+Offline Signature Verification model using deep learning methods to authenticate identity by  distinguishing between signatures.
 
-The model have been created using One Shot Learning technique and a Siamese neural netowrk. One of the goals that we had in our minds before desigining the model was to not make the model language or regional exclusive. So, several datasets including multiple languages were used to train the model.
+The model has been created using the One Shot Learning technique and a Siamese neural network. One of the goals that we had in our minds before designing the model was not to make the model language or regional exclusive. So, several datasets including multiple languages were used to train the model.
 
 1) Data Acquisition 
         
@@ -42,11 +42,11 @@ For the datasets, the [ICDAR2011 (Dutch)](https://drive.google.com/file/d/1BPTu5
 
 3) Model Architecture [Code](https://nbviewer.jupyter.org/github/ahmedatef1610/INKuisitor-Machine-Learning-Model/blob/master/project5.ipynb) - [model weights](https://drive.google.com/drive/folders/1sizPVIMaoXNlihRY6UaAUTQlk5-83W-E?usp=sharing) - [model weights (h5)](https://drive.google.com/file/d/1-A5LycnhA2G84D0HZXN5jg47mvX3f4uD/view?usp=sharing)
   
-Siamese network is considered as an implementation of One-Shot learning technique, it consists of parallel convolution networks, could be two or more.The model evaluates the two input images by finding the similarity score between the two images between 0 and 1 clarifying whether the test image is genuine or forged based on the similarity score.
+The siamese network is considered an implementation of the One-Shot learning technique, it consists of parallel convolution networks, which could be two or more. The model evaluates the two input images by finding the similarity score between the two images between 0 and 1 clarifying whether the test image is genuine or forged based on the similarity score.
   
   ![image](https://user-images.githubusercontent.com/47431372/127754404-d06d6270-f701-49bd-85de-2ddb22e9cedb.png)
   
-  The CNN type used in this project is a Dense 201 type netowrk. 
+  The CNN type used in this project is a Dense 201-type network. 
   
   ![image](https://user-images.githubusercontent.com/47431372/127754468-d9336df1-e60b-4258-a327-ed8eb7fdc509.png)
 
@@ -60,27 +60,27 @@ Siamese network is considered as an implementation of One-Shot learning techniqu
 )
 
   
-- The BHSig260 (Hindi) dataset gave accuracy of 84.53062248995984 %
+- The BHSig260 (Hindi) dataset gave an accuracy of 84.53062248995984 %
 
 ![image](https://user-images.githubusercontent.com/47431372/127754644-d53a7c6c-e879-424d-8340-44b8ff34b47d.png)
 
 
-- The BHSig260 (Bengali) dataset gave accuracy of 88.214859437751 %
+- The BHSig260 (Bengali) dataset gave an accuracy of 88.214859437751 %
 
 ![image](https://user-images.githubusercontent.com/47431372/127754641-3733f10b-2da9-49be-a5f7-abfb7ae6cfa2.png)
 
 
-- The ICDAR2011 (Dutch) dataset gave accuracy of 89.49152542372882 %
+- The ICDAR2011 (Dutch) dataset gave an accuracy of 89.49152542372882 %
 
 ![image](https://user-images.githubusercontent.com/47431372/127754638-db9430d8-49f4-4113-bcd5-ad5c06f4f2a4.png)
 
 
-- The Kaggle (English) dataset gave accuracy of 89.80952380952381 %
+- The Kaggle (English) dataset gave an accuracy of 89.80952380952381 %
 
 ![image](https://user-images.githubusercontent.com/47431372/127754636-e5499e2a-b841-49a7-9ede-07bac390260b.png)
 
 
-- The Cedar (English) dataset gave accuracy of 89.29364063166881 %
+- The Cedar (English) dataset gave an accuracy of 89.29364063166881 %
 
 ![image](https://user-images.githubusercontent.com/47431372/127754634-8ca43cd1-fbaf-4212-9db0-5416deb4120e.png)
 
@@ -90,7 +90,7 @@ Siamese network is considered as an implementation of One-Shot learning techniqu
 
 ### [INKuisitor Backend](https://github.com/hossam507/INKuisitor-Backend)
 
-### [INKuisitor Fronend](https://github.com/DevDerpi/INKuisitor-Frontend)
+### [INKuisitor Frontend](https://github.com/DevDerpi/INKuisitor-Frontend)
 
 ### [INKuisitor Documentation](https://drive.google.com/file/d/1QAHa9znnBrcRrZkXDISJDrzMCNpvC72q/view?usp=sharing)
 
